@@ -1,0 +1,583 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7609
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+([Bug]: Child BrowserWindow modal on macOS does not respond to setBounds\(\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(https://github.com//electron/electron/issues/30236) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+([Bug]: Windows. Run electron app from shortcut in minimize mode does not work.) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(https://github.com//electron/electron/issues/30234) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+([Bug]: incorrect position of traffic lights with custom titlebar) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(https://github.com//electron/electron/issues/30230) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+([Bug]: When compile electron as Windows DLL, DevTools is not working) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(https://github.com//electron/electron/issues/30226) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+([Bug]: Window alert\(\)/prompt\(\) dialog titles corrupted) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(https://github.com//electron/electron/issues/30223) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+([Bug]: "second-instance" event fires with requestSingleInstanceLock\(\) even if the 2nd instance is a different app/version) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(https://github.com//electron/electron/issues/30219) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+([Bug]: ses.setSpellCheckerLanguages is not a no-op on macOS as documented) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(https://github.com//electron/electron/issues/30215) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+([Bug] iMac 5k screen) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(https://github.com//electron/electron/issues/30214) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+([Bug]: Windows EXCEPTION_ACCESS_VIOLATION_READ) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(https://github.com//electron/electron/issues/30210) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+([Bug]: desktopCapturer output is blank when capturing own window.) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(https://github.com//electron/electron/issues/30208) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+([Feature Request]: allow webview.send to send to iframes enabled via nodeintegrationinsubframes) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(https://github.com//electron/electron/issues/30207) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(Crash when closing a window with a webview and devtools open) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 161.5750393700786844 Td
+(https://github.com//electron/electron/issues/30204) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+([Bug]: Possibly broken user agent client hint) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(https://github.com//electron/electron/issues/30201) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+(Expose partition_key in cookies.get/set APIs) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(https://github.com//electron/electron/issues/30189) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 19.8427559055116944 Td
+([Bug]: Slow redirection) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -8.5037007874017263 Td
+(https://github.com//electron/electron/issues/30184) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -36.8501574803150334 Td
+([Bug]: script load error, but success in the browser) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -65.1966141732284541 Td
+(https://github.com//electron/electron/issues/30178) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -93.5430708661418748 Td
+([Bug]: crypto.Hash.update very slow compared to node) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -121.8895275590551819 Td
+(https://github.com//electron/electron/issues/30176) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -150.2359842519686026 Td
+([Bug]: Video TexImage renders extremely slow when OOP raster is disabled \(Chore, Chrome Cherry-pick\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -178.5824409448820234 Td
+(https://github.com//electron/electron/issues/30173) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -206.9288976377953304 Td
+(Tray Icon not working on Ubuntu 20.04) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -235.2753543307088648 Td
+(https://github.com//electron/electron/issues/30172) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -263.6218110236221719 Td
+([Bug]: Frameless transparent BrowserWindow on Windows OS has transparent space below it when height is less than 60px) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -291.9682677165354789 Td
+(https://github.com//electron/electron/issues/30171) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -320.3147244094490134 Td
+(can not get independent audio mediaStream from independent browserWindow[Bug]:) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -348.6611811023623204 Td
+(https://github.com//electron/electron/issues/30170) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -377.0076377952756275 Td
+([Bug]:  Detached and minimised Developer tools window cannot be restored when calling the focus method) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -405.3540944881891619 Td
+(https://github.com//electron/electron/issues/30168) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -433.7005511811024689 Td
+([Bug]: version 13.1.6  Cannot quit the process in Windows app.quit\(\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -462.0470078740160034 Td
+(https://github.com//electron/electron/issues/30167) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -490.3934645669293104 Td
+([Bug]: callback didn't executed with process.nextTick and setImmediate) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -518.7399212598426175 Td
+(https://github.com//electron/electron/issues/30153) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -547.0863779527561519 Td
+(IpcRenderer. On obtained data does not accord with expectations,) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -575.432834645669459 Td
+(https://github.com//electron/electron/issues/30152) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210722205644+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007813 00000 n 
+0000009630 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007870 00000 n 
+0000007995 00000 n 
+0000008125 00000 n 
+0000008258 00000 n 
+0000008395 00000 n 
+0000008518 00000 n 
+0000008647 00000 n 
+0000008779 00000 n 
+0000008915 00000 n 
+0000009043 00000 n 
+0000009170 00000 n 
+0000009299 00000 n 
+0000009432 00000 n 
+0000009534 00000 n 
+0000009878 00000 n 
+0000009964 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <26018A03BB5CE09E5ED37E321E1E03A4> <26018A03BB5CE09E5ED37E321E1E03A4> ]
+>>
+startxref
+10068
+%%EOF

@@ -1,0 +1,583 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7486
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(Show Code under Docs Broken Styling) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(https://github.com//storybookjs/storybook/issues/15655) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(Feature request: Adding mdx blocks documentation) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(https://github.com//storybookjs/storybook/issues/15653) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(Docs stories.mdx format from version 6.3.3 does not work with Angular) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(https://github.com//storybookjs/storybook/issues/15648) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(Error: Compiling RuleSet failed: Unexpected property test in condition with fresh install of vue 2 with cli and storybook webpack5 builder) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(https://github.com//storybookjs/storybook/issues/15641) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+(sb init and start-storybook fail to parse tsconfig path in freshly generated Angular 12 library) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(https://github.com//storybookjs/storybook/issues/15635) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(Angular - Loaders not working with Docs) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(https://github.com//storybookjs/storybook/issues/15634) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+(ESM, Yarn 2, Typescript - Storybook cannot resolve modules when the \(mandatory\) extension is provided) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(https://github.com//storybookjs/storybook/issues/15633) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(addon-backgrounds: global context not initially updated with color) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(https://github.com//storybookjs/storybook/issues/15632) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+(Storybook Theming: Remove use of "normal" theme and language) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(https://github.com//storybookjs/storybook/issues/15631) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(Support for handle bar code in docs) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(https://github.com//storybookjs/storybook/issues/15619) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+(Changing controls in storybook for angular components does not trigger ngOnChanges) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(https://github.com//storybookjs/storybook/issues/15610) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(addon-storyshots can't fetch stories using new directory-syntax in @next) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 161.5750393700786844 Td
+(https://github.com//storybookjs/storybook/issues/15609) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+(Addons panel no longer working) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(https://github.com//storybookjs/storybook/issues/15606) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+(Accessibility: 'Clear text' button in search field is defined as image) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(https://github.com//storybookjs/storybook/issues/15601) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 19.8427559055116944 Td
+(No webpack config for build-storybook --debug-webpack) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -8.5037007874017263 Td
+(https://github.com//storybookjs/storybook/issues/15600) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -36.8501574803150334 Td
+(Angular: "Show code" shows some weird looking code) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -65.1966141732284541 Td
+(https://github.com//storybookjs/storybook/issues/15598) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -93.5430708661418748 Td
+(Composition sidebar menu incorrect for title items with no grouping) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -121.8895275590551819 Td
+(https://github.com//storybookjs/storybook/issues/15597) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -150.2359842519686026 Td
+(Unable to generate docs version) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -178.5824409448820234 Td
+(https://github.com//storybookjs/storybook/issues/15596) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -206.9288976377953304 Td
+(Maximum call stack size exceeded in react app) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -235.2753543307088648 Td
+(https://github.com//storybookjs/storybook/issues/15593) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -263.6218110236221719 Td
+(Angular: Compodoc character issues) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -291.9682677165354789 Td
+(https://github.com//storybookjs/storybook/issues/15591) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -320.3147244094490134 Td
+(Angular component get redeclared - that is regression compared to legacy Angular renderer \(specific casees\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -348.6611811023623204 Td
+(https://github.com//storybookjs/storybook/issues/15590) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -377.0076377952756275 Td
+(--modern flag throws errors) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -405.3540944881891619 Td
+(https://github.com//storybookjs/storybook/issues/15589) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -433.7005511811024689 Td
+(puppeteer-core version in @storybook/cli) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -462.0470078740160034 Td
+(https://github.com//storybookjs/storybook/issues/15585) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -490.3934645669293104 Td
+(Test runner: Run custom tests) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -518.7399212598426175 Td
+(https://github.com//storybookjs/storybook/issues/15584) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -547.0863779527561519 Td
+(Test runner: Report integration) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -575.432834645669459 Td
+(https://github.com//storybookjs/storybook/issues/15583) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210722205645+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007690 00000 n 
+0000009507 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007747 00000 n 
+0000007872 00000 n 
+0000008002 00000 n 
+0000008135 00000 n 
+0000008272 00000 n 
+0000008395 00000 n 
+0000008524 00000 n 
+0000008656 00000 n 
+0000008792 00000 n 
+0000008920 00000 n 
+0000009047 00000 n 
+0000009176 00000 n 
+0000009309 00000 n 
+0000009411 00000 n 
+0000009755 00000 n 
+0000009841 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <C5B7E11003A29D3909529FA86F34EC75> <C5B7E11003A29D3909529FA86F34EC75> ]
+>>
+startxref
+9945
+%%EOF

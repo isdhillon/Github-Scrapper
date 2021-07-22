@@ -1,0 +1,583 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7648
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+([Bug]: page is set to null inside lambda expression) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(https://github.com//microsoft/playwright/issues/7795) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+([Question]: Can I somehow change the directory for saving screenshots?) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(https://github.com//microsoft/playwright/issues/7792) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+([Feature]: Precise grab & drop point for page.dragAndDrop) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(https://github.com//microsoft/playwright/issues/7789) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+([Question]: Is there any way by which we can assert whether the element is clickable or not in Playwright?) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(https://github.com//microsoft/playwright/issues/7788) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+([docs]: option fixtures via the config lead to TS warnings) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(https://github.com//microsoft/playwright/issues/7787) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+([Feature]: Possibility to annotate a test as optional, i.e. test execution always continues after it) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(https://github.com//microsoft/playwright/issues/7786) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+([Feature]: Make URL parameter optional in page.goto if global baseUrl is set) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(https://github.com//microsoft/playwright/issues/7783) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+([Bug]: Cannot take Screenshot via Config file. Creates empty folder only) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(https://github.com//microsoft/playwright/issues/7777) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+([Bug]:  Truncated download suggested name on webkit) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(https://github.com//microsoft/playwright/issues/7773) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+([Bug]: device.launchBrowser\(\) stops on about:blank when changing the page URL) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(https://github.com//microsoft/playwright/issues/7771) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+([Bug]: media: hover pointer: fine style not applied on firefox) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(https://github.com//microsoft/playwright/issues/7769) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+([Question]: Testing application with 1 host and 2 participants) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 161.5750393700786844 Td
+(https://github.com//microsoft/playwright/issues/7768) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+([Bug]: chromium-92.0.4501.0 emits a 'crash' event when invoking page.goto\(some URL\)) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(https://github.com//microsoft/playwright/issues/7765) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+([Question]: How to get the generated script in real time through code) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(https://github.com//microsoft/playwright/issues/7791) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 19.8427559055116944 Td
+([Question]: How to get the generated script in real time through code) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -8.5037007874017263 Td
+(https://github.com//microsoft/playwright/issues/7764) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -36.8501574803150334 Td
+([Bug]: Playwright Test runner :- Tests not passing test even after all the steps get completed. The browser fails to close) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -65.1966141732284541 Td
+(https://github.com//microsoft/playwright/issues/7763) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -93.5430708661418748 Td
+([Bug]: Type Error when running 'npx playwright test') Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -121.8895275590551819 Td
+(https://github.com//microsoft/playwright/issues/7762) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -150.2359842519686026 Td
+([Feature]: narrative test suite) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -178.5824409448820234 Td
+(https://github.com//microsoft/playwright/issues/7756) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -206.9288976377953304 Td
+([Bug]: global use is not working to launch firefox or webkit) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -235.2753543307088648 Td
+(https://github.com//microsoft/playwright/issues/7746) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -263.6218110236221719 Td
+([Feature]: Support 'em' units for page margins) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -291.9682677165354789 Td
+(https://github.com//microsoft/playwright/issues/7745) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -320.3147244094490134 Td
+([Bug]: strange error when waiting for element or URL) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -348.6611811023623204 Td
+(https://github.com//microsoft/playwright/issues/7742) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -377.0076377952756275 Td
+([Bug]: Playwright executable path not found message should be cross-language compatible) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -405.3540944881891619 Td
+(https://github.com//microsoft/playwright/issues/7741) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -433.7005511811024689 Td
+([Question]: Load multiple storageStates into a single context) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -462.0470078740160034 Td
+(https://github.com//microsoft/playwright/issues/7738) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -490.3934645669293104 Td
+([Feature]: Support 'em' units for page margins) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -518.7399212598426175 Td
+(https://github.com//microsoft/playwright/issues/7775) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -547.0863779527561519 Td
+([Feature]: publish ARM-based docker containers) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -575.432834645669459 Td
+(https://github.com//microsoft/playwright/issues/7723) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210722205644+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007852 00000 n 
+0000009669 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007909 00000 n 
+0000008034 00000 n 
+0000008164 00000 n 
+0000008297 00000 n 
+0000008434 00000 n 
+0000008557 00000 n 
+0000008686 00000 n 
+0000008818 00000 n 
+0000008954 00000 n 
+0000009082 00000 n 
+0000009209 00000 n 
+0000009338 00000 n 
+0000009471 00000 n 
+0000009573 00000 n 
+0000009917 00000 n 
+0000010003 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <ECCFB1081E954142A8DEE305FC633024> <ECCFB1081E954142A8DEE305FC633024> ]
+>>
+startxref
+10107
+%%EOF

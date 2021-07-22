@@ -1,0 +1,583 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 7239
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 813.5435433070865656 Td
+(Extra Lines in Dialog) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 785.1970866141732586 Td
+(https://github.com//afollestad/material-dialogs/issues/2071) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 756.8506299212598378 Td
+(Error build Material Dialogs and Assent) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 728.5041732283464171 Td
+(https://github.com//afollestad/material-dialogs/issues/2070) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 700.15771653543311 Td
+(Rejecting re-init on previously-failed) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 671.8112598425196893 Td
+(https://github.com//afollestad/material-dialogs/issues/2069) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 643.4648031496062686 Td
+(KotlinNullPointerException DateTimeExtKt.isFutureDate) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 615.1183464566928478 Td
+(https://github.com//afollestad/material-dialogs/issues/2065) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 586.7718897637794271 Td
+(Datetime picker week character is in english. How to follow the current user language?) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 558.42543307086612 Td
+(https://github.com//afollestad/material-dialogs/issues/2064) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 530.0789763779526993 Td
+(Datetime picker starts on Sunday) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 501.7325196850393354 Td
+(https://github.com//afollestad/material-dialogs/issues/2063) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 473.3860629921259147 Td
+(Material-Dialogs lib should perhaps not declare RTL support itself) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 445.0396062992125508 Td
+(https://github.com//afollestad/material-dialogs/issues/2062) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 416.69314960629913 Td
+(Large message text does not scroll properly) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 388.3466929133857661 Td
+(https://github.com//afollestad/material-dialogs/issues/2061) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 360.0002362204724022 Td
+(3.3.0 bug) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 331.6537795275589815 Td
+(https://github.com//afollestad/material-dialogs/issues/2060) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 303.3073228346455608 Td
+(Button Text Sliced) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 274.9608661417322537 Td
+(https://github.com//afollestad/material-dialogs/issues/2059) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 246.614409448818833 Td
+(Crash when multiple dialogs are shown in quick succession) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 218.2679527559054122 Td
+(https://github.com//afollestad/material-dialogs/issues/2058) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 189.9214960629919915 Td
+(Animated dismissal of bottom sheet) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 161.5750393700786844 Td
+(https://github.com//afollestad/material-dialogs/issues/2057) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 133.2285826771652637 Td
+(Add option to completely hide dividers) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 104.882125984251843 Td
+(https://github.com//afollestad/material-dialogs/issues/2056) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 76.5356692913385359 Td
+(Not able to build andriod project after updating material-dialogs  3.3.0) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 48.1892125984251152 Td
+(https://github.com//afollestad/material-dialogs/issues/2055) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 19.8427559055116944 Td
+(Stack Buttons and Gravity) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -8.5037007874017263 Td
+(https://github.com//afollestad/material-dialogs/issues/2054) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -36.8501574803150334 Td
+(can we use this library in java android app?) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -65.1966141732284541 Td
+(https://github.com//afollestad/material-dialogs/issues/2053) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -93.5430708661418748 Td
+(Multiple File Selection) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -121.8895275590551819 Td
+(https://github.com//afollestad/material-dialogs/issues/2052) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -150.2359842519686026 Td
+(DatePicker cancelation, set last day in month) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -178.5824409448820234 Td
+(https://github.com//afollestad/material-dialogs/issues/2050) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -206.9288976377953304 Td
+(having problem to Extend MaterialDialog 3) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -235.2753543307088648 Td
+(https://github.com//afollestad/material-dialogs/issues/2049) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -263.6218110236221719 Td
+(After the Mobile Home button is pressed, the second opening is not displayed) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -291.9682677165354789 Td
+(https://github.com//afollestad/material-dialogs/issues/2048) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -320.3147244094490134 Td
+(AndoridX support) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -348.6611811023623204 Td
+(https://github.com//afollestad/material-dialogs/issues/2047) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -377.0076377952756275 Td
+(Custom button color is not working on android 10) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -405.3540944881891619 Td
+(https://github.com//afollestad/material-dialogs/issues/2046) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -433.7005511811024689 Td
+(There is a place in DialogFileChooserExt I don’t know if it is an error) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -462.0470078740160034 Td
+(https://github.com//afollestad/material-dialogs/issues/2045) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -490.3934645669293104 Td
+(applySettings callback unexpectedly called *after* setting the text) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -518.7399212598426175 Td
+(https://github.com//afollestad/material-dialogs/issues/2044) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -547.0863779527561519 Td
+(Is this command correct?) Tj
+ET
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0 g
+28.3464566929133888 -575.432834645669459 Td
+(https://github.com//afollestad/material-dialogs/issues/2041) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+/F13 17 0 R
+/F14 18 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+19 0 obj
+<<
+/Producer (jsPDF 2.3.1)
+/CreationDate (D:20210722205644+05'30')
+>>
+endobj
+20 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 21
+0000000000 65535 f 
+0000007443 00000 n 
+0000009260 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000007500 00000 n 
+0000007625 00000 n 
+0000007755 00000 n 
+0000007888 00000 n 
+0000008025 00000 n 
+0000008148 00000 n 
+0000008277 00000 n 
+0000008409 00000 n 
+0000008545 00000 n 
+0000008673 00000 n 
+0000008800 00000 n 
+0000008929 00000 n 
+0000009062 00000 n 
+0000009164 00000 n 
+0000009508 00000 n 
+0000009594 00000 n 
+trailer
+<<
+/Size 21
+/Root 20 0 R
+/Info 19 0 R
+/ID [ <E4C798A3665506A23EED2F5E4EF74683> <E4C798A3665506A23EED2F5E4EF74683> ]
+>>
+startxref
+9698
+%%EOF
